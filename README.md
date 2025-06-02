@@ -1,6 +1,6 @@
 # CoinMarketCap API Data Fetcher
 
-This project fetches cryptocurrency data from the [CoinMarketCap API](https://coinmarketcap.com/api/). You can use it to retrieve real-time information such as prices, market cap, volume, and more for various cryptocurrencies.
+This project fetches cryptocurrency data from the [CoinMarketCap API](https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?start=1&limit=5&convert=USD&CMC_PRO_API_KEY=c4404bfc-6ffe-4b81-a03f-f162a694c1f3). You can use it to retrieve real-time information such as prices, market cap, volume, and more for various cryptocurrencies.
 
 ## 🚀 Features
 
