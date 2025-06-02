@@ -16,10 +16,4 @@ This project fetches cryptocurrency data from the [CoinMarketCap API](https://pr
 - `requests` library
 - CoinMarketCap Developer API
 
-## 📦 Installation
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/coinmarketcap-fetcher.git
-cd coinmarketcap-fetcher
